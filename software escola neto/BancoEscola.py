@@ -31,5 +31,7 @@ cursor.execute ("""CREATE TABLE IF NOT EXISTS aluno (
         """)
 
 
+
+
 conn.commit()
 print('Tabela criada com sucesso')
